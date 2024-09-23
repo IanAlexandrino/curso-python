@@ -1,3 +1,10 @@
+nome = "Ian"
+sobrenome = "Rodrigues Alexandrino"
+idade = 23
+ano_nascimento = 2001
+maior_de_idade = idade >= 18
+altura_metros = 1.71
+
 print("Nome:", nome)
 print("Sobrenome:", sobrenome)
 print("Idade:", idade)
