@@ -5,7 +5,7 @@ O intuito da atividade é completar a variável `imc` inserindo o cálculo neces
 ```
 
 nome = "Ian Rodrigues"
-altura = 1.80
+altura = 1.71
 peso = 97
 imc = ...
 
